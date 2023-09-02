@@ -1,0 +1,5 @@
+- 👋 Hi, I’m TeilZeitMond
+- 👀 I’m interested in Coding
+- 🌱 Im currently Coding FiveM Scripts as a Scripting Service - Mega Scripts - panel.megascripts.de
+- 💞️ I’m looking to collaborate on FiveM Scripts Developement
+- 📫 You can reach me by joining the Mega Scripts discord and opening a ticket - https://discord.gg/KyPsHYK5YW
